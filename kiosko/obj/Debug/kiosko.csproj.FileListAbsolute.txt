@@ -1,0 +1,10 @@
+c:\users\israel\documents\visual studio 2017\Projects\kiosko\kiosko\bin\Debug\kiosko.exe.config
+c:\users\israel\documents\visual studio 2017\Projects\kiosko\kiosko\bin\Debug\kiosko.exe
+c:\users\israel\documents\visual studio 2017\Projects\kiosko\kiosko\bin\Debug\kiosko.pdb
+c:\users\israel\documents\visual studio 2017\Projects\kiosko\kiosko\bin\Debug\websocket-sharp.dll
+c:\users\israel\documents\visual studio 2017\Projects\kiosko\kiosko\bin\Debug\websocket-sharp.xml
+c:\users\israel\documents\visual studio 2017\Projects\kiosko\kiosko\obj\Debug\kiosko.Form1.resources
+c:\users\israel\documents\visual studio 2017\Projects\kiosko\kiosko\obj\Debug\kiosko.Properties.Resources.resources
+c:\users\israel\documents\visual studio 2017\Projects\kiosko\kiosko\obj\Debug\kiosko.csproj.GenerateResource.Cache
+c:\users\israel\documents\visual studio 2017\Projects\kiosko\kiosko\obj\Debug\kiosko.exe
+c:\users\israel\documents\visual studio 2017\Projects\kiosko\kiosko\obj\Debug\kiosko.pdb
